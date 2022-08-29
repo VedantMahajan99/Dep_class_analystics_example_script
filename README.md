@@ -1,1 +1,1 @@
-# Dep_class_analystics_example_script
+# Dep_class_analytics_example_script
